@@ -1,0 +1,5 @@
+package com.ingweb.zuul.filters;
+
+public class RouteFilter {
+
+}

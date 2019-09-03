@@ -1,0 +1,5 @@
+package com.ingweb.account.model;
+
+public class Account {
+
+}

@@ -1,0 +1,5 @@
+package com.ingweb.account.repository;
+
+public class AccountRepository {
+
+}
